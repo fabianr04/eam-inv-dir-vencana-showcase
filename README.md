@@ -107,7 +107,7 @@ El flujo de la aplicación modela la realidad de las operaciones de perforación
 <details>
   <summary><kbd>Ver detalle</kbd> <b>Manejo de Estado Complejo (MVI) en UI</b></summary>
   <blockquote>
-    La asignación dinámica de componentes a los distintos tipos de ensambles genera múltiples combinaciones de validación en la interfaz debido a las posibilidades de arquitectura segun modelos o  cantidad de piezas. El uso del patrón <b>MVI (Model-View-Intent)</b> centralizó todas estas validaciones en un único flujo de estado unidireccional, evitando condiciones de carrera al actualizar listas filtradas desde el backend y manteniendo la UI siempre predecible.
+    La asignación dinámica de componentes a los distintos tipos de ensambles genera múltiples combinaciones de validación en la interfaz debido a las posibilidades de arquitectura segun modelos o cantidad de piezas. El uso del patrón <b>MVI (Model-View-Intent)</b> centralizó todas estas validaciones en un único flujo de estado unidireccional, evitando condiciones de carrera al actualizar listas filtradas desde el backend y manteniendo la UI siempre predecible.
   </blockquote>
 </details>
 
@@ -131,7 +131,9 @@ El flujo de la aplicación modela la realidad de las operaciones de perforación
 <h2>DEMOSTRACIÓN VISUAL</h2>
 
 <div align="center">
-  <i>A continuación se muestra el funcionamiento de la interfaz y gestión de componentes.</i>
+  <i>A continuación se adjunta el link hacia un video de muestra del funcionamiento de la interfaz y gestión de componentes.</i>
   <br><br>
-  <img src="ruta_hacia_tu_imagen_o_gif.gif" width="85%" alt="Demostración de la Interfaz" />
+  <a href="https://youtu.be/2TNs9WWyPsI" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Video_en-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demostración en YouTube" />
+  </a>
 </div>
