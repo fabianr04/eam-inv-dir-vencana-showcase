@@ -107,7 +107,7 @@ El flujo de la aplicación modela la realidad de las operaciones de perforación
 <details>
   <summary><kbd>Ver detalle</kbd> <b>Manejo de Estado Complejo (MVI) en UI</b></summary>
   <blockquote>
-    La asignación dinámica de componentes a diferentes tipos de ensambles genera múltiples combinaciones de validación en la interfaz. El uso del patrón <b>MVI (Model-View-Intent)</b> centralizó todas estas validaciones en un único flujo de estado unidireccional, evitando condiciones de carrera al actualizar listas filtradas desde el backend y manteniendo la UI siempre predecible.
+    La asignación dinámica de componentes a los distintos tipos de ensambles genera múltiples combinaciones de validación en la interfaz debido a las posibilidades de arquitectura segun modelos o  cantidad de piezas. El uso del patrón <b>MVI (Model-View-Intent)</b> centralizó todas estas validaciones en un único flujo de estado unidireccional, evitando condiciones de carrera al actualizar listas filtradas desde el backend y manteniendo la UI siempre predecible.
   </blockquote>
 </details>
 
