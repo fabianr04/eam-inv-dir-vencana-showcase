@@ -21,7 +21,7 @@
 
 <h2>VISIÓN GENERAL</h2>
 
-Plataforma integral diseñada para el departamento de Coordinación de Perforación Direccional, enfocada en el control preciso y la trazabilidad del inventario rotativo. El sistema automatiza y centraliza la gestión del ciclo de vida operativo: desde la categorización y mantenimiento de componentes, su estructuración en ensambles, hasta el seguimiento de despliegues en campo y el registro de corridas en los pozos.
+Plataforma integral diseñada para el departamento de Coordinación de Perforación Direccional, enfocada en el control preciso y la trazabilidad del inventario rotativo. El sistema automatiza y centraliza la gestión del ciclo de vida operativo: desde la categorización y mantenimiento de componentes, su estructuración en ensambles (BHA), el seguimiento de despliegues en campo y la administración de pozos, hasta el control de acceso de los usuarios y el registro de corridas.
 
 <br>
 
@@ -77,6 +77,16 @@ El flujo de la aplicación modela la realidad de las operaciones de perforación
     <td width="50%">
       <b>Auditoría y Reportes</b><br>
       Historial inmutable de interacciones del sistema, generación de registros en PDF y procesamiento de inventarios masivos vía Excel.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>Gestión de Pozos</b><br>
+      Administración centralizada de locaciones y áreas de perforación para la correcta asignación topográfica de las herramientas desplegadas.
+    </td>
+    <td width="50%">
+      <b>Gestión de Usuarios</b><br>
+      Control de acceso basado en roles y permisos, garantizando que las acciones críticas y modificaciones del inventario sean ejecutadas únicamente por personal autorizado.
     </td>
   </tr>
 </table>
